@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cafeteria do Seu Madruga</string>
+    <string-array name="listview1">
+        <item>Bebidas</item>
+        <item>Comida</item>
+        <item>Mercearia</item>
+    </string-array>
+    <string name="favorito">Favorito</string>
+</resources>
